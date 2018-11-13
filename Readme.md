@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Андрей Островский](https://up.htmlacademy.ru/javascript/16/user/198062).
-* Наставник: `Неизвестно`.
+* Наставник: `undefined`.
 
 ---
 
